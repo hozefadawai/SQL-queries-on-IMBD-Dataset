@@ -1,12 +1,5 @@
 # SQL-queries-on-IMBD-Dataset
 
-## Table of Contents
-
-- [About](#about)
-- [Project Overview](#project-overview)
-- [Dataset](#dataset)
-- [Queries](#queries)
-
 ## About
 
 This GitHub repository contains a SQL project based on the IMDb movie dataset. The project focuses on solving complex queries using SQL to extract meaningful insights from the relational tables within the dataset.
